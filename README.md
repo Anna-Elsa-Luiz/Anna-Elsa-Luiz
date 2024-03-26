@@ -6,11 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-Python |
+Python | Statistics | Mathematics | SQL | Machine Learning | Deep Learning | MLOps | AWS | MongoDB | 
 
 *   🌍  I'm based in Kochi
 *   ✉️  You can contact me at [luizannaelsa@gmmail.com](mailto:luizannaelsa@gmmail.com)
-*   🧠  I'm learning Deep Learning , MLOps
+*   🧠  I'm  currently learning Deep Learning , MLOps
 *   ⚡  I am interested in Cognitive AI , and read about how brain works
 *   ### Skills 
 <p align="left">
