@@ -37,10 +37,10 @@ Python | Statistics | Mathematics | SQL | Machine Learning | Deep Learning | MLO
                     </picture>
                     </a></p>
 
-* ### Education Section
+* ### Education  🎓
 <section>
-    <h3>Education 🎓</h3>
-    <ul>
+   
+   <ul>
         <li><strong>Master of Science in Applied Statistics and Data Analytics</strong> - St Teresa's College Ernakulam, 2023</li>
         <li><strong>Bachelor of Science in Mathematics</strong> - St Teresa's College Ernakulam, 2021</li>
         <li><strong>Electrical -IHRD </strong> - Model Technical Higher Secondary school , 2016-18</li>
