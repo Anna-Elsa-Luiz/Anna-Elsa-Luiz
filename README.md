@@ -41,8 +41,10 @@ Python |
 <section>
     <h3>Education 🎓</h3>
     <ul>
-        <li><strong>Your Degree or Certification</strong> - University or Institution, Year</li>
-        <li><strong>Another Degree or Certification</strong> - University or Institution, Year</li>
+        <li><strong>Master of Science in Applied Statistics and Data Analytics</strong> - St Teresa's College Ernakulam, 2023</li>
+        <li><strong>Bachelor of Science in Mathematics</strong> - St Teresa's College Ernakulam, 2021</li>
+        <li><strong>Electrical -IHRD </strong> - Model Technical Higher Secondary school , 2016-18</li>
+     
     </ul>
 </section>
 
