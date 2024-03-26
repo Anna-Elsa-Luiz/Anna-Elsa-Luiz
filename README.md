@@ -45,16 +45,9 @@ Python |
         <li><strong>Bachelor of Science in Mathematics</strong> - St Teresa's College Ernakulam, 2021</li>
         <li><strong>Electrical -IHRD </strong> - Model Technical Higher Secondary school , 2016-18</li>
      
-    </ul>
+   </ul>
 </section>
 
-<!-- Projects Section -->
-<section>
-    <h3>Projects 💼</h3>
-    <ul>
-        <li><strong>Project Name</strong> - Description and link (if applicable)</li>
-        <li><strong>Project Name</strong> - Description and link (if applicable)</li>
-    </ul>
-</section>
+
 
                     
