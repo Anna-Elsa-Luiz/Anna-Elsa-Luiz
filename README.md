@@ -36,3 +36,23 @@ Python |
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>
+
+* ### Education Section
+<section>
+    <h3>Education 🎓</h3>
+    <ul>
+        <li><strong>Your Degree or Certification</strong> - University or Institution, Year</li>
+        <li><strong>Another Degree or Certification</strong> - University or Institution, Year</li>
+    </ul>
+</section>
+
+<!-- Projects Section -->
+<section>
+    <h3>Projects 💼</h3>
+    <ul>
+        <li><strong>Project Name</strong> - Description and link (if applicable)</li>
+        <li><strong>Project Name</strong> - Description and link (if applicable)</li>
+    </ul>
+</section>
+
+                    
